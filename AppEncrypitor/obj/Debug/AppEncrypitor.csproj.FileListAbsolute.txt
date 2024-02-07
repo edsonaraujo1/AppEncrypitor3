@@ -26,3 +26,16 @@ E:\NOTE_ADVICE\Desenv\AppEncrypitor3\AppEncrypitor\AppEncrypitor\obj\Debug\AppEn
 E:\NOTE_ADVICE\Desenv\AppEncrypitor3\AppEncrypitor\AppEncrypitor\obj\Debug\AppEncrypitor.application
 E:\NOTE_ADVICE\Desenv\AppEncrypitor3\AppEncrypitor\AppEncrypitor\obj\Debug\AppEncrypitor.exe
 E:\NOTE_ADVICE\Desenv\AppEncrypitor3\AppEncrypitor\AppEncrypitor\obj\Debug\AppEncrypitor.pdb
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\bin\Debug\AppEncrypitor.exe.config
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\bin\Debug\AppEncrypitor.exe.manifest
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\bin\Debug\AppEncrypitor.application
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\bin\Debug\AppEncrypitor.exe
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\bin\Debug\AppEncrypitor.pdb
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\obj\Debug\AppEncrypitor.Form1.resources
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\obj\Debug\AppEncrypitor.Properties.Resources.resources
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\obj\Debug\AppEncrypitor.csproj.GenerateResource.cache
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\obj\Debug\AppEncrypitor.csproj.CoreCompileInputs.cache
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\obj\Debug\AppEncrypitor.exe.manifest
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\obj\Debug\AppEncrypitor.application
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\obj\Debug\AppEncrypitor.exe
+C:\Desenv\Repositorio\AppEncrypitor3\AppEncrypitor\obj\Debug\AppEncrypitor.pdb

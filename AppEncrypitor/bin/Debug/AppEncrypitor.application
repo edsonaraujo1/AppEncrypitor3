@@ -7,14 +7,14 @@
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="AppEncrypitor.exe.manifest" size="3989">
+    <dependentAssembly dependencyType="install" codebase="AppEncrypitor.exe.manifest" size="3994">
       <assemblyIdentity name="AppEncrypitor.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Orda3Ee8Fi+lYsHZ2i+TccQ1KjUMDuzX6h0hcSC9Hho=</dsig:DigestValue>
+        <dsig:DigestValue>JKxAB8aUoedqhiPmNY6urZIqjq21NH0GAiPhYLe5oMY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
