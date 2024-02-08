@@ -8,7 +8,7 @@ using System.Text;
 namespace AppEncrypitor
 {
     public static class Seguranca
-    {
+    {                                                       
         private static byte[] key = Convert.FromBase64String("wLJcecy1V8O+2xfZN6Sb3+9PRSHEpuZcTgihIN2I904=");
         private static byte[] iv = Convert.FromBase64String("JTfM6sPKRElOe5oqEJrivA==");
 
